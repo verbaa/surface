@@ -1,0 +1,116 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+  .header {
+    background-image: url(../img/football_1280.jpg);
+  }
+  .background__title {
+    font-size: 6vw;
+  }
+  .buttons__img {
+    width: 5.20833vw;
+    height: 5.20833vw;
+  }
+  .buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-bottom: 2rem;
+  }
+  .buttons__app {
+    display: flex;
+    justify-content: center;
+    background-color: #5C3DB2;
+    border: none;
+    border-radius: 2rem;
+    color: #ffffff;
+    align-self: center;
+    margin-bottom: 0.5rem;
+    width: 39.97vw;
+  }
+  .buttons-width {
+    width: 90%;
+  }
+  .buttons_app:first-child {
+    margin-right: 20%;
+  }
+  .box1 {
+    padding-left: 39.06vw;
+  }
+  .athlets {
+    height: 766px;
+  }
+  .athlets__img {
+    display: none;
+  }
+  .athlets__497 {
+    width: 58.04vw;
+    display: flex;
+    align-self: start;
+    z-index: 1;
+    position: absolute;
+    margin-top: 15vh;
+    left: -15vw;
+  }
+  .athlets__566 {
+    display: none;
+  }
+  .connection {
+    background: #fff;
+  }
+  .width__768 {
+    width: 44.57vw;
+  }
+  .players {
+    height: 697px;
+  }
+  .players .players__img {
+    display: none;
+  }
+  .players .players__img--768 {
+    width: 50.04vw;
+    display: flex;
+    align-self: start;
+    z-index: 1;
+    position: absolute;
+    margin-top: 12vh;
+    right: 0;
+  }
+  .be-active .be-active__block {
+    padding: 1.8rem 1.8rem;
+  }
+  .bottom__icon {
+    width: 22%;
+  }
+  .be-active__320 {
+    display: none;
+  }
+  .be-active__768 {
+    display: block;
+  }
+  .find-contact__img {
+    display: none;
+  }
+  .find-contact__768 {
+    display: block;
+  }
+  .work-it__1024 {
+    display: none;
+  }
+  .work-it__img {
+    display: none;
+  }
+  .work-it__768 {
+    display: block;
+  }
+}
+
+.players__img--991 {
+  display: none;
+}
+
+.find-contact__1024 {
+  display: none;
+}
+
+.row2 h3 {
+  margin-top: 40px;
+}

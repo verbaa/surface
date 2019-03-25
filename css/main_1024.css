@@ -1,0 +1,203 @@
+@media (min-width: 1024px) {
+  .header {
+    background-image: url(../img/football_1920.jpg);
+    margin-top: 0;
+  }
+  .background__title {
+    font-size: 5vw;
+    margin-top: 3vh;
+  }
+  .background__title-left {
+    margin-left: -7.666vw;
+  }
+  .buttons__img {
+    width: 5.20833vw;
+    height: 3.20833vw;
+  }
+  .buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-bottom: 2rem;
+  }
+  .buttons .buttons__app {
+    display: flex;
+    justify-content: center;
+    background-color: #5C3DB2;
+    border: none;
+    border-radius: 2rem;
+    color: #ffffff;
+    align-self: center;
+    margin-bottom: 0.5rem;
+    width: 30vw;
+  }
+  .buttons-width {
+    width: 70%;
+  }
+  .buttons_app:first-child {
+    margin-right: 20%;
+  }
+  .box1 {
+    padding-left: 39.06vw;
+  }
+  .athlets {
+    height: 766px;
+  }
+  .athlets h1 {
+    font-size: 30pt;
+  }
+  .athlets h3 {
+    font-size: 15pt;
+  }
+  .athlets p {
+    font-size: 10pt;
+  }
+  .players {
+    height: 766px;
+  }
+  .players h1 {
+    font-size: 30pt;
+  }
+  .players h3 {
+    font-size: 15pt;
+  }
+  .players p {
+    font-size: 10pt;
+  }
+  .athlets__img {
+    display: none;
+  }
+  .athlets__497 {
+    display: none;
+  }
+  .athlets__566 {
+    width: 28.04vw;
+    display: flex;
+    align-self: start;
+    z-index: 1;
+    position: absolute;
+    margin-top: 10vh;
+    margin-left: 10vw;
+  }
+  .connection {
+    background: #fff;
+  }
+  .width__768 {
+    width: 44.57vw;
+  }
+  .players {
+    height: 606px;
+  }
+  .players .players__img {
+    display: none;
+  }
+  .players .players__img--768 {
+    display: none;
+  }
+  .players .players__img--991 {
+    width: 40.04vw;
+    display: flex;
+    align-self: start;
+    z-index: 1;
+    position: absolute;
+    margin-top: 6vh;
+    right: 0;
+  }
+  .be-active .be-active__block {
+    padding: 1.8rem 1.8rem;
+  }
+  .bottom__icon {
+    width: 22%;
+  }
+  .be-active__320 {
+    display: none;
+  }
+  .be-active__768 {
+    display: none;
+  }
+  .be-active__1024 {
+    display: inline-flex;
+    width: 50%;
+  }
+}
+
+.be-active {
+  width: 50%;
+  margin-top: -4px;
+}
+
+.row1 {
+  flex-direction: row;
+  display: inline-flex;
+  height: 40vw;
+}
+
+.row2 {
+  width: 50%;
+  margin-top: 100px;
+}
+
+.row2 h3 {
+  font-size: 40pt;
+  width: 600px;
+}
+
+.row2 p {
+  width: 600px;
+  font-size: 20pt;
+}
+
+.find-contact__img {
+  display: none;
+}
+
+.find-contact__768 {
+  display: none;
+}
+
+.find-contact__1024 {
+  display: block;
+  width: 50vw;
+  height: 38vw;
+}
+
+.find-contact h3 {
+  font-size: 40pt;
+  margin-top: 100px;
+}
+
+.find-contact p {
+  font-size: 22pt;
+}
+
+.work-it__img {
+  display: none;
+}
+
+.work-it__768 {
+  display: none;
+}
+
+.work-it__1024 {
+  display: block;
+}
+
+.flexf {
+  display: inline-flex;
+  flex-direction: row-reverse;
+}
+
+.flexf1 {
+  flex-direction: column;
+  display: flex;
+}
+
+.be-active .be-active__block {
+  position: absolute;
+  margin-top: 15vh;
+  margin-left: -2vw;
+}
+
+.growth {
+  position: relative;
+}
